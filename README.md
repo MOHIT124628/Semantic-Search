@@ -5,7 +5,7 @@ Instead of keyword matching, it understands the meaning (context) of a query and
 
 ## Feacture
 
-1.Convert sentences into vector embeddings
+1.Convert sentences into vector embeddings\n
 2.Perform semantic similarity search
 3.Retrieve top matching results
 4.Uses cosine similarity for comparison
